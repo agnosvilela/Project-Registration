@@ -1,0 +1,17 @@
+C:\Users\agnos\Desktop\CadProdutos\bin\Debug\net7.0\CadProdutos.exe
+C:\Users\agnos\Desktop\CadProdutos\bin\Debug\net7.0\CadProdutos.deps.json
+C:\Users\agnos\Desktop\CadProdutos\bin\Debug\net7.0\CadProdutos.runtimeconfig.json
+C:\Users\agnos\Desktop\CadProdutos\bin\Debug\net7.0\CadProdutos.dll
+C:\Users\agnos\Desktop\CadProdutos\bin\Debug\net7.0\CadProdutos.pdb
+C:\Users\agnos\Desktop\CadProdutos\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.csproj.AssemblyReference.cache
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.AssemblyInfo.cs
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.csproj.CopyComplete
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.dll
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\refint\CadProdutos.dll
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.pdb
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\CadProdutos.genruntimeconfig.cache
+C:\Users\agnos\Desktop\CadProdutos\obj\Debug\net7.0\ref\CadProdutos.dll
